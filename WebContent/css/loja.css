@@ -5,7 +5,7 @@
 }
 
 a {
-	color: navy;
+	color: #0000ff;
 }
 
 #ajax-loading {
@@ -36,7 +36,7 @@ input[disabled] {
 }
 
 .resultado_busca a {
-	color: navy;
+	color: #0000ff;
 }
 
 .resultado_busca input[type="text"] {
@@ -149,7 +149,7 @@ code *, pre * {
 }
 
 #carrinho h3 a {
-	color: navy;
+	color: #0000ff;
 }
 #carrinho h3 {
 	margin: 10px;
@@ -171,11 +171,11 @@ code *, pre * {
 }
 
 .carrinho_vazio a {
-	color: navy;
+	color: #0000ff;
 }
 
 body{
-	background-color:#2a2948; 
+	background-color:#0000ff; 
 	text-align:center;}
 
 h1 {
@@ -342,7 +342,7 @@ table tbody tr.even {
 }
 #menuWrap input {
 	width: 15em;
-	color: #ababab;
+	color: #0000ff;
 }
 #menuWrap input:focus {
 	color: black ;
